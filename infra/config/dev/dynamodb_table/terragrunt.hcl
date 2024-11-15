@@ -3,6 +3,6 @@ terraform {
 }
 
 inputs = {
- table_name = "transferx-dev-locks"
+ table_name = "fin-dev-locks"
  environment = "dev"
 }
